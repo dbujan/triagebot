@@ -96,6 +96,6 @@ Los detalles obligatorios están en:
 
 ## Equipo
 
-Nombres:
+Nombres: David Buján Carballal
 
-Metodología: `Vibe` / `Spec-Driven`
+Metodología: `Spec-Driven`
