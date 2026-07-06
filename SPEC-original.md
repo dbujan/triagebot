@@ -60,3 +60,4 @@ Los tests comprueban:
 - No propagar excepciones del SDK de la IA al endpoint.
 - No modificar los tests de aceptación para hacerlos pasar.
 - No introducir React ni frontend complejo.
+- No hardcodear "prompts", meterlos en ficheros aparte.
